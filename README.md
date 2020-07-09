@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # bytebank
 
 A new Flutter project.
@@ -17,4 +17,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 =======
 # byte-bank
->>>>>>> 3ae18264ba7ff19de51891292db5d265e0feea07
+
